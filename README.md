@@ -1,1 +1,1 @@
-I had backed up my files from my phone. All the trashed files on my phone were also backed up onto my hard drive, now instead of deleting them individually I wrote a script that deletes files starting with ".trashed"
+Deletes files starting with ".trashed"
